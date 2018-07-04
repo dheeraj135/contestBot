@@ -1,0 +1,33 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+
+
+[packages]
+
+django = "*"
+gunicorn = "*"
+django-heroku = "*"
+asn1crypto= "*"
+certifi= "*"
+cffi= "*"
+chardet= "*"
+cryptography= "*"
+enum34= "*"
+idna= "*"
+ipaddress= "*"
+pkg-resources= "*"
+pycparser= "*"
+pyOpenSSL= "*"
+requests= "*"
+selenium= "*"
+six= "*"
+typing= "*"
+urllib3= "*"
+zulip= "*"
+
+
+[requires]
+
+python_version = "3.6"
