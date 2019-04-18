@@ -1,0 +1,1 @@
+worker: python3 sel-test1.py
